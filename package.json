@@ -1,0 +1,28 @@
+{
+  "name": "radiobot-by-devnemil",
+  "version": "0.0.1",
+  "description": "A simple Radio Bot Made By Dev Nemil!",
+  "main": "radiobot.js",
+  "scripts": {
+    "start": "node radiobot.js"
+  },
+  "dependencies": {
+    "discord.js": "^12.5.0",
+    "express": "^4.17.1",
+    "ytdl-core": "^4.1.3",
+    "opusscript": "^0.0.7",
+    "dotenv": "^8.2.0"
+  },
+  "engines": {
+    "node": "12.x"
+  },
+  "repository": {
+    "url": "https://glitch.com/edit/#!/hello-express"
+  },
+  "license": "MIT",
+  "keywords": [
+    "node",
+    "glitch",
+    "express"
+  ]
+}
